@@ -25,7 +25,7 @@ The project follows the Medallion architecture best practices for Data Lakes:
 
 Using PySpark `Window Functions`, the pipeline successfully isolated contracts with highly anomalous values. For instance, the query below identifies contracts in the IT Directorate that are **almost 97% above the sector's average spending**:
 
-![Anomaly Detection Results]([PrintSQL.png])
+![Anomaly Detection Results](PrintSQL.png)
 
 *Note: The image above demonstrates the Gold Layer output queried directly via Spark SQL.*
 
