@@ -36,7 +36,7 @@ Using PySpark `Window Functions`, the pipeline successfully isolated contracts w
 4. Run the cells sequentially to build the Bronze, Silver, and Gold tables.
 
 ## 👨‍💻 Author
-Benjamin Farias Silva
-**[Seu Nome Aqui]**
+
+**Benjamin Farias Silva**
 *Data Engineer*
-[Link para o seu LinkedIn]
+https://www.linkedin.com/in/benfarias/
